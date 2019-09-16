@@ -151,3 +151,4 @@ if __name__ == '__main__':
         machine.joinInMqtt()
     getData()
     #checkOnConnect()
+    #haha
