@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PyScript_vs_2", "PyScript_vs_2\PyScript_vs_2.pyproj", "{FD21F8D1-59BC-4BB9-8175-75CEE205EE0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD21F8D1-59BC-4BB9-8175-75CEE205EE0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD21F8D1-59BC-4BB9-8175-75CEE205EE0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {068D80EF-7415-4D9B-B640-1736F2249478}
+	EndGlobalSection
+EndGlobal
